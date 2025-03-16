@@ -114,3 +114,22 @@ Setelah proses menjalankan perintah dari klien telah selesai dikerjakan oleh ser
 
 ## Tren perkembangan PostgreeSQL
 PostgreSQL tentu saja berada di posisi pertama dengan penggunaan 85,9% di antara responden (baik yang menggunakan dalam produksi maupun yang sedang bermigrasi), diikuti oleh Oracle di 43,59%, SQL Server di 32,05%, dan MySQL di 28,21%. MongoDB dan DB2 berada di posisi kelima dengan 14,10%, Redis di 11,54%, dan Greenplum dan SQLite berada di posisi ketujuh dengan masing-masing 5,13%. Cassandra, Cockroach, Cosmos DB, Elasticsearch, Teradata, dan TimescaleDB berada di posisi kedelapan dengan masing-masing penggunaan 1,28%.
+
+# Sumber Data
+https://www.dicoding.com/blog/apa-itu-database/
+
+https://codingstudio.id/blog/database-adalah-pengertian-dan-komponennya/
+
+https://www.actian.com/blog/databases/types-of-databases-pros-cons/
+
+https://herovired.com/learning-hub/topics/advantages-and-disadvantages-of-dbms/
+
+https://www.keycdn.com/blog/popular-databases
+
+https://www.postgresql.org/about/
+
+https://codingstudio.id/blog/postgresql-adalah/
+
+https://scalegrid.io/blog/2019-postgresql-trends-report-private-vs-public-cloud/
+
+https://learnsql.com/blog/companies-that-use-postgresql-in-business/

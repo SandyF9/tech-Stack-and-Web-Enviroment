@@ -7,7 +7,7 @@ Tech Stack adalah seraingkaian teknologi yang di gunakan untuk mengembangkan apl
 Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya. Melalui pengelolaan tersebut pengguna dapat memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi.
 
 ### Komponen DataBases :
-omponen dalam database adalah:
+Komponen dalam database adalah:
 
 #### 1. Data
 Data merupakan file yang isinya adalah informasi dalam bentuk teks, gambar, log atau yang lain. Penyimpanan akan menggunakan struktur tertentu yang mudah dioperasikan.

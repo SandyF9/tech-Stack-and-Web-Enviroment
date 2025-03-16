@@ -94,4 +94,17 @@ PostgreSQL adalah salah satu dari beberapa basis data populer yang gratis, dan s
 
 Mesin manajemen basis data ini dapat dihosting di sejumlah lingkungan, termasuk lingkungan virtual, fisik, dan berbasis cloud. Versi terbaru menawarkan lebih banyak opsi untuk kompresi, dukungan untuk keluaran log server terstruktur dalam format JSON, dan peningkatan kinerja (terutama penyortiran dalam memori dan pada disk).
 
-###
+## Cara Kerja dari PostgreSQL
+#### 1. Permintaan memanipulasi data ke server
+Pada permulaan, klien akan melakukan permintaan ke server PostgreSQL untuk melakukan manipulasi atau modifikasi pada data. Hal ini merupakan langkah awal dari prosedur atau cara kerja dari PostgreSQL karena database tersebut merupakan database dengan model client-server.
+
+#### 2. Server merespon dan menjalankan perintah yang diberikan oleh klien
+Tahap selanjutnya, server akan menerima dan merespon perintah yang sudah diajukan oleh klien. Tak lama kemudian, server akan mulai menjalankan perintah yang sudah diberikan. Dalam hal ini Anda bisa memberi perintah untuk membuat database PostgreSQL.
+
+#### 3. Hasil diberikan pada klien
+Setelah proses menjalankan perintah dari klien telah selesai dikerjakan oleh server, selanjutnya hasil akan diberikan pada klien. Dalam proses ini, terdapat beberapa komponen yang terlibat, antara lain query planner, executor hingga storage manager.
+
+## Kelebihan Dan Kekurangan PostgreSQL
+| Kelebihan PostgreSQL | Kekurangan PostgreSQL |
+|-----------|-----------|
+|**Merupakan database yang bersifat terbuka atau open source** <br> Seperti yang diketahui, PostgreSQL adalah database yang memiliki sifat terbuka atau disebut dengan istilah open source. Hal ini menandakan jika Anda dapat dengan leluasa melakukan manipulasi, modifikasi dan perubahan pada database sesuai keinginan dan tujuan Anda. | 
